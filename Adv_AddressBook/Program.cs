@@ -31,7 +31,7 @@ namespace Adv_AddressBook
                         int count = Convert.ToInt32(Console.ReadLine());   
                         for (int i = 0; i < count; i++)
                         {
-                            program.InsertContact();
+                            program.InsertContact(); 
                         }
                         break;
                     case 2:
