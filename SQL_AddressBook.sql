@@ -12,4 +12,4 @@ Email varchar(50)
 )
 
 select * from Family
-truncate table Family
+truncate table Family 
